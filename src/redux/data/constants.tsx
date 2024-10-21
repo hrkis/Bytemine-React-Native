@@ -1,0 +1,14 @@
+export const SET_USER = 'SET_USER';
+export const SET_STATS = 'SET_STATS';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_MODAL = 'SET_MODAL';
+export const SET_BALANCE = 'SET_BALANCE';
+export const SET_REF = 'SET_REF';
+export const SET_FIRST = 'SET_FIRST';
+export const SET_NOTIFICATION = 'SET_NOTIFICATION';
+export const SET_UPDATE_DATA = 'SET_UPDATE_DATA';
+export const SET_SPLASH_DATA = 'SET_SPLASH_DATA';
+export const SET_SYMBOL_IMAGE = 'SET_SYMBOL_IMAGE';
+export const SET_LIVE_MODE = 'SET_LIVE_MODE';
+export const SET_AVERAGE_MATRICS = 'SET_AVERAGE_MATRICS';
+export const SET_IS_FIRST_TIME = 'SET_IS_FIRST_TIME'

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "572481986308",
+    "project_id": "bytemine-mobile-app",
+    "storage_bucket": "bytemine-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572481986308:android:32767836de2b400ddd7a51",
+        "android_client_info": {
+          "package_name": "com.bytemine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572481986308-449kjoc5bbuupurl3j3h0r46g9gfakhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKFJfRleffMJnTllCy6IdipGGvD7FRuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572481986308-449kjoc5bbuupurl3j3h0r46g9gfakhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572481986308-piprj4eilsum79n506orq8pjuk1ptmlg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.app-bytemine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
